@@ -4,6 +4,7 @@
 # _developer/
 database/
 shopify.*.toml
+**/dist/**/
 
 # dependencies
 package-lock.json
